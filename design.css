@@ -1,0 +1,164 @@
+#one {
+    height:280px;
+    background-image: url("movies.jpeg");
+    background-size: cover;
+
+}
+#two {
+    background-color: rgb(66, 43, 157);
+    height: 50px;
+    border-radius: 8px;
+    
+    border-color: black;
+}
+#thirty{
+    display: inline-block;
+    color:white;
+    position:relative;
+    left:115px;
+    bottom: 13px;
+}
+
+
+
+#three{display:inline-block;
+color:white;
+position:relative;
+left:320px;
+bottom:13px;}
+#four{display:inline-block;
+    color:white;
+    position:relative;
+left:340px;
+bottom:13px;}
+#five{display:inline-block;
+    color:white;
+    position:relative;
+left:360px;
+bottom:13px;}
+#six{display:inline-block;
+    color:white;
+    position:relative;
+left:380px;
+bottom:13px;}
+#seven{display:inline-block;
+    color:white;
+    position:relative;
+left:400px;
+bottom:13px;}
+#eight {
+    display:inline-block;
+    height:45px;
+    position: relative;
+    left:580px;
+    top:3px;
+
+}
+#nine {
+    position:relative ;
+    left:255px;
+    width: 500px; 
+    height:25px;
+
+    color:black;
+    display:inline-block;
+    border-width: 2px;
+    border-color: black;
+    
+}
+#ten {
+    display:inline-block;
+    height: 27px;
+    width:100px;
+    position: relative;
+    bottom:28px;
+    left:762px;
+    width:40px;
+   
+}
+#eleven {
+    display:inline-block;
+    height:27px;
+    width:37px;
+    position: relative;
+    bottom:2px;
+    right:6px;
+
+
+}
+#hundred {
+    display: inline-block;
+    height: 45px;
+    position: relative;
+    right: 318px;
+    top:3px;
+}
+@media screen and (max-width:930px) and (min-width:504px) {
+    #one {
+        height:280px;
+        background-image: url("movies.jpeg");
+        background-size: cover;
+        width:900px;
+    
+    }
+    #two {
+        background-color: rgb(66, 43, 157);
+        height: 50px;
+        border-radius: 8px;
+        
+        border-color: black;
+        width:900px;
+        
+    }
+    #eight {
+        display:inline-block;
+        height:45px;
+        position: relative;
+        left:529px;
+        top:3px;
+    
+    }
+    #nine {
+        position:relative ;
+        left:240px;
+        width: 513px; 
+        height:25px;
+    
+        color:black;
+        display:inline-block;
+        border-width: 2px;
+        border-color: black;
+        
+    }
+    #ten {
+        display:inline-block;
+        height: 27px;
+        width:105px;
+        position: relative;
+        bottom:28px;
+        right:20px;
+        width:40px;
+       
+    }
+
+
+}
+@media screen and (max-width:503px) and (min-width:120px) {
+    #one {
+        height:280px;
+        background-image: url("movies.jpeg");
+        background-size: cover;
+        width:1000px;
+    
+    }
+    #two {
+        background-color: rgb(66, 43, 157);
+        height: 50px;
+        border-radius: 8px;
+        
+        border-color: black;
+        width: 1000px;
+    }
+
+
+}
